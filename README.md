@@ -2,7 +2,6 @@
 
 This repository contains my complete submission for the **[Hugging Face AI Agent Certification](https://huggingface.co/learn/agents-course)**, where I built a fully autonomous AI agent capable of solving real-world reasoning tasks from the **GAIA (General AI Assistant) Benchmark**.
 
----
 
 ## 🎓 About the Certification (Just for Context!)
 
@@ -17,7 +16,6 @@ The course is structured into units containing written materials, coding noteboo
 
 So that's the overall context.
 
----
 
 ## 🚀 What I Built
 
@@ -31,7 +29,6 @@ I developed an intelligent agent using:
 
 > **Achievement**: The agent was evaluated on **20 Level 1 GAIA benchmark tasks** and successfully submitted to Hugging Face's scoring API.
 
----
 
 ## 🧪 GAIA Benchmark: What Is It?
 
@@ -44,7 +41,6 @@ The **GAIA benchmark** is a rigorous test suite designed to assess the general r
 
 It's used to evaluate general-purpose AI assistants and is modeled as a stepping stone toward AGI-level capabilities.
 
----
 
 ## 💡 How the Agent Works
 
@@ -64,7 +60,6 @@ The agent adheres strictly to GAIA's required output format:
 
 No extra words, units, or explanations — just the direct result, optimized for exact-match evaluation. 
 
----
 
 ## 🖼️ Screenshots (📷)
 
@@ -84,7 +79,6 @@ I've included screenshots below showing:
 ![Screenshot 2025-05-26 185556](https://github.com/user-attachments/assets/40679944-631f-47ef-8250-d90a9c85c814)
 
 
----
 
 ## 🧾 Submission Details
 
@@ -94,7 +88,6 @@ I've included screenshots below showing:
 - ✅ Posted all answers to the `/submit` endpoint
 - ✅ Received official score & result breakdown
 
----
 
 ## 📊 My GAIA Result
 
@@ -102,7 +95,6 @@ I've included screenshots below showing:
 > 🏅 **Certification Status:** _Passed with ≥ 30% as required_  
 > 🧾 View: [[Certificate Link](https://drive.google.com/file/d/1e9cqwTSaD541Gjn2Yya1IPRzM89AzozP/view?usp=sharing)]
 
----
 
 ## 🧠 Reflections
 
@@ -114,7 +106,4 @@ This project pushed me to design a system that combines:
 - **Structured output formatting**
 
 It simulated real-world agent deployment scenarios and was an excellent hands-on exercise for tool-augmented agents. I would say, more than the satisfaction of obtaining the certification, I'm happy to have learned all these theories and concepts. And to have applied & implemented them!
-
----
-
 
