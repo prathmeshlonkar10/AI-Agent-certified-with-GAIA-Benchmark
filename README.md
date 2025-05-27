@@ -82,16 +82,20 @@ I've included screenshots below showing:
 
 ## 🧾 Submission Details
 
-- ✅ Authenticated via Hugging Face OAuth
-- ✅ Pulled questions dynamically from HF API
-- ✅ Automatically attached auxiliary files
-- ✅ Posted all answers to the `/submit` endpoint
-- ✅ Received official score & result breakdown
+-  Authenticated via Hugging Face OAuth
+-  Pulled questions dynamically from HF API
+-  Automatically attached auxiliary files
+-  Posted all answers to the `/submit` endpoint
+-  Received official score & result breakdown
 
 
 ## 📊 My GAIA Result
 
-> 📈 **Final Score:** _✓ [7/20 correct]_  
+![Screenshot 2025-05-26 185729](https://github.com/user-attachments/assets/06bc1718-035d-4b9a-a034-f2c949c31b24)
+![Screenshot 2025-05-26 185026](https://github.com/user-attachments/assets/5d9c1740-adc2-49a7-af6b-69597429b64b)
+
+
+> 📈 **Final Score:** _[7/20 correct]_  
 > 🏅 **Certification Status:** _Passed with ≥ 30% as required_  
 > 🧾 View: [[Certificate Link](https://drive.google.com/file/d/1e9cqwTSaD541Gjn2Yya1IPRzM89AzozP/view?usp=sharing)]
 
