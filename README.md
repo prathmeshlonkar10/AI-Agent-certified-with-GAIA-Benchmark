@@ -1,1 +1,2 @@
-# AI-Agent-certified-with-GAIA-Benchmark
+# 🧠 GAIA Benchmark Agent – HuggingFace AI Agent Certification
+
