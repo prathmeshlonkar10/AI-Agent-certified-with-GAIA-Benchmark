@@ -1,0 +1,14 @@
+gradio
+requests
+pandas
+openpyxl
+pytesseract
+pillow
+whisper
+pytube
+langdetect
+smolagents
+smolagents[litellm]
+ffmpeg-python
+duckduckgo_search
+wikipedia-api
